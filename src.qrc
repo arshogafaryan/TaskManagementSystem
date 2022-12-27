@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>3534139.png</file>
+        <file>login.png</file>
+        <file>bg.png</file>
+        <file>reg.png</file>
+        <file>channels4_profile.png</file>
+        <file>academy.png</file>
+    </qresource>
+    <qresource prefix="/databases">
+        <file>users.txt</file>
+        <file>projects.txt</file>
+        <file>tasks.txt</file>
+    </qresource>
+</RCC>

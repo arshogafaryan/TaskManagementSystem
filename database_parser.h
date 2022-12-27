@@ -1,0 +1,4 @@
+#ifndef DATABASE_PARSER_H
+#define DATABASE_PARSER_H
+
+#endif // DATABASE_PARSER_H
